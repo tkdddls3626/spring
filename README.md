@@ -11,3 +11,8 @@
 <h2>메뉴 구성도</h2>
 
 ![image](https://user-images.githubusercontent.com/79887255/182764294-3df9102c-71ea-44de-a247-2d96cb5fba24.png)
+
+
+<h2>알고리즘 명세서</h2>
+
+![image](https://user-images.githubusercontent.com/79887255/182764418-9e52035a-93c0-48b4-9ddc-be668f649c29.png)
