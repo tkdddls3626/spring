@@ -16,3 +16,8 @@
 <h2>알고리즘 명세서</h2>
 
 ![image](https://user-images.githubusercontent.com/79887255/182764418-9e52035a-93c0-48b4-9ddc-be668f649c29.png)
+
+
+<h2>핵심 코드 <h2>
+  
+![image](https://user-images.githubusercontent.com/79887255/182764609-ac68326b-869a-4461-a092-fe71d663b016.png)
